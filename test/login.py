@@ -3,3 +3,5 @@ def func():
     b = 2
     c = a + b
     print(c)
+
+num1 = 10
